@@ -39,3 +39,5 @@ $(document).on("click mousemove","body",function(e){
     document.getElementById("r_d_logo").style.transform = "translateY("+tenx+"px)";
     document.getElementById("c_d_logo").style.transform = "translateX("+tenx+"px)";
 });
+
+// for animation only
